@@ -87,7 +87,7 @@ Snicher Chat is a peer-to-peer (P2P) chat application written in Python by TEAM-
 - **Routes**  
   - **`/`**: Renders the main chat interface with forms to connect to peers, send messages, and display active peers.
   - **Additional Routes**: For sending messages, updating peer lists, or handling real-time communication (if implemented with websockets or long polling).
-
+![Snitcher_chat](Images/preview.png)
 
 
 ## Getting Started
