@@ -31,8 +31,6 @@ Snicher Chat is a peer-to-peer (P2P) chat application written in Python by TEAM-
    – IP: 10.206.5.228, PORT: 6555
    ```
 
-6. **Team Name Prefix**  
-   - All messages include a team name prefix for easy identification of the sender.
 
 ## Technologies Used
 - **Python 3**: Core language for the P2P script.
