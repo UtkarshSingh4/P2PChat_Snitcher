@@ -49,12 +49,7 @@ Snicher Chat is a peer-to-peer (P2P) chat application written in Python by TEAM-
 ```
 .
 ├── snicher_chat.py       # Main P2P script for console-based operations
-├── app.py                # Flask web application
-├── templates/
-│   └── index.html        # HTML template for the Flask app
-├── static/
-│   ├── style.css         # CSS for the Flask app
-│   └── ...               # Other static assets (if any)
+├── app.py                # complete Flask web application (including HTML,CSS in it)
 └── README.md             # This file
 ```
 
