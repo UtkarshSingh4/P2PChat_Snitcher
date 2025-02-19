@@ -1,11 +1,12 @@
-# Snicher Chat – A P2P Chat Application with Flask Web Interface
+# Snicher Chat – A P2P Chat Application with Flask Web Interface(Include BONUS)
 
 ## Overview
-Snicher Chat is a peer-to-peer (P2P) chat application written in Python by TEAM-SNITCHER. It allows multiple peers to connect and exchange messages in real-time. This repository contains two main components:
+Snicher Chat is a peer-to-peer (P2P) chat application **incluing bonus question**written in Python by TEAM-SNITCHER. It allows multiple peers to connect and exchange messages in real-time. This repository contains two main components:
 
 1. **A P2P console-based script** (`P2P_Chat_Snicher.py`) for handling direct socket connections between peers.
 2. **A Flask-based web application** (`app.py`) that provides a user-friendly interface for connecting to peers, sending messages, and viewing active peers.
-   
+# Team_Detail
+**Team_Name: Snitcher**
 ## Team-Members
 1. Utkarsh Singh     230041035
 2. Srujan Patel      230001063
